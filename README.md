@@ -1,2 +1,2 @@
-# gtcrn_demo
-Audio examples of GTCRN
+# TSE-DVAD
+Audio examples for multi-channel TSE with DVAD.
